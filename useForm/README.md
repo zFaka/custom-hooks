@@ -1,6 +1,6 @@
 useForm
 
-\> Example
+\>&nbsp;&emsp;    Example
 
 ```
 const initialForm = {
@@ -13,6 +13,6 @@ const initialForm = {
 const [ formValues, handleInputChange, reset] = useForm(initialForm);
 ```
 
-/ Recive an array
+/&nbsp;&emsp;    Recive an array
 
-\# Only input an object
+\#&nbsp;&emsp;    Only input an object
