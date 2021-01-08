@@ -1,11 +1,11 @@
 useFetch
 
-\> Example
+\>&nbsp;&emsp;    Example
 
 ```
 const url = `api endpoint`;
 const { data: null, loading: true, error: null } = useFetch(url);
 ```
-/ Recive an object
+/&nbsp;&emsp;    Recive an object
 
-\# Only input a valid url
+\#&nbsp;&emsp;    Only input a valid url
