@@ -1,5 +1,5 @@
 # useCounter
-> Example
+\> Example
 ```
 const { counter, increase, decrease} = useCounter(10);
 useCounter();
