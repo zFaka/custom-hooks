@@ -1,4 +1,4 @@
-&nbsp; &emsp;&nbsp; Fishing Box
+Fishing Box
 
 \>&nbsp;&emsp;    Save hooks
 
